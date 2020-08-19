@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ======
-  I am now a third year PhD student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Legal Search Technologies. I am dedicated to research and application of legal artificial intelligence, one of the first few to apply knowledge graph technology to the law tech field.
+  I am now a third year Eng.D student in the Leading Talents for Innovation Program in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Legal Search Technologies. I am dedicated to research and application of legal artificial intelligence, one of the first few to apply knowledge graph technology to the law tech field.
   
   
 Work Experience
@@ -21,7 +21,7 @@ Work Experience
 * 2003 - 2016, Senior Researcher/Technical Expert, Research Institute, Beijing Huayu Information Technology Co., Ltd.
 
 
-Work Title
+Work Title:
 ======
 * Professorate Senior Engineer;
 * Member of the Language and Knowledge Computing Committee of the Chinese Information Processing Society of China;
