@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+About Me
+======
+  I am now a third year PhD student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Legal Search Technologies. I am dedicated to research and application of legal artificial intelligence, one of the first few to apply knowledge graph technology to the law tech field.
+  
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
