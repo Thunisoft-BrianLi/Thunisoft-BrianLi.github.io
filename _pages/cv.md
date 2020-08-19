@@ -21,15 +21,13 @@ Work Experience
 * 2003 - 2016, Senior Researcher/Technical Expert, Research Institute, Beijing Huayu Information Technology Co., Ltd.
 
 
-Title
+Work Title
 ======
 * Professorate Senior Engineer;
-
 * Member of the Language and Knowledge Computing Committee of the Chinese Information Processing Society of China;
-
 * Member of National Information Technology Standardization Member of the Artificial Intelligence Subcommittee of the Technical Committee;
-
 * Researcher at the Intelligent Information Acquisition Research Center of the Institute of Artificial Intelligence, Tsinghua University;
+* Winner of the “Global Leading Progammers Award” by 2018 2nd Global Programmers’ Festival. 
 
 
 Research Projects:
@@ -50,15 +48,9 @@ Research Projects:
 Patents:
 ======
 * Training Method, Device and Electronic Equipment of Decisions Processing Model;
-
 * Evaluation Method, Device and Electronic Equipment for Legal Data Retrieval;
-
 * Method, Device and Electronic Equipment for Mining Legal Search Intentint;
-
 * Method and Device for Extracting Sensitive Information from Decisions, Method, Device and Eletronic Equipment for Processing Decisions 
-
 * A Legal Cognition Method, Device and Medium Based on Multi-level and Multi-dimensional Natural Language Understanding
-
 * A legal Cognition Method, Device and Medium Based on Reinforcement Learning
-
 * Method, Device, System and Medium for Constructing Legal Knowledge Graph Based on Machine Learning.
