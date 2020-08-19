@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "About Me: Donghai Li（李东海）"
 permalink: /
 author_profile: true
 redirect_from:
