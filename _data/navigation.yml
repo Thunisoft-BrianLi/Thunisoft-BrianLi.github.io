@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Work Experience"
-    url: /cv/#work-experience
+    url: /#work-experience
 
   - title: "Work Title"
-    url: /cv/#work-title
+    url: /#work-title
 
   - title: "Research Projects"
-    url: /cv/#research-projects
+    url: /#research-projects
 
   - title: "Patents"
-    url: /cv/#patents
+    url: /#patents
