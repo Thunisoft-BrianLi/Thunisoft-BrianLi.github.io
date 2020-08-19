@@ -13,17 +13,24 @@ About Me
 ======
   I am now a third year PhD student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Legal Search Technologies. I am dedicated to research and application of legal artificial intelligence, one of the first few to apply knowledge graph technology to the law tech field.
   
+  
 Work Experience
 ======
-* 2016-present Deputy General Manager/Chief Technology Officer, Beijing Huayu Yuandian Information Service Co., Ltd.;
-* 2003-2016 Senior Researcher/Technical Expert, Research Institute, Beijing Huayu Information Technology Co., Ltd.
+* 2016 - present, Deputy General Manager/Chief Technology Officer, Beijing Huayu Yuandian Information Service Co., Ltd.;
+
+* 2003 - 2016, Senior Researcher/Technical Expert, Research Institute, Beijing Huayu Information Technology Co., Ltd.
+
 
 Title
 ======
 * Professorate Senior Engineer;
+
 * Member of the Language and Knowledge Computing Committee of the Chinese Information Processing Society of China;
+
 * Member of National Information Technology Standardization Member of the Artificial Intelligence Subcommittee of the Technical Committee;
+
 * Researcher at the Intelligent Information Acquisition Research Center of the Institute of Artificial Intelligence, Tsinghua University;
+
 
 Research Projects:
 ======
@@ -39,12 +46,19 @@ Research Projects:
 * Key Innovative Enterprise Industrialization Project in Haidian District, Beijing:
   * An Intelligent Processing Platform for Legal Documents Based on Natural Language Analysis, 2011-2013.
 
+
 Patents:
 ======
 * Training Method, Device and Electronic Equipment of Decisions Processing Model;
+
 * Evaluation Method, Device and Electronic Equipment for Legal Data Retrieval;
+
 * Method, Device and Electronic Equipment for Mining Legal Search Intentint;
+
 * Method and Device for Extracting Sensitive Information from Decisions, Method, Device and Eletronic Equipment for Processing Decisions 
+
 * A Legal Cognition Method, Device and Medium Based on Multi-level and Multi-dimensional Natural Language Understanding
+
 * A legal Cognition Method, Device and Medium Based on Reinforcement Learning
+
 * Method, Device, System and Medium for Constructing Legal Knowledge Graph Based on Machine Learning.
